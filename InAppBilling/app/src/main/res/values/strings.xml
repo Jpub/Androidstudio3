@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">InAppBilling</string>
+    <string name="buy_a_click">Buy a Click</string>
+    <string name="click_me">Click Me!</string>
+</resources>

@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "C:\\AndroidStudioProjects\\GestureBuilder\\app\\build\\intermediates\\res\\merged\\debug\\layout_create_gesture.xml.flat",
+        "source": "C:\\AndroidStudioProjects\\GestureBuilder\\app\\src\\main\\res\\layout\\create_gesture.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProjects\\GestureBuilder\\app\\build\\intermediates\\res\\merged\\debug\\layout_gestures_item.xml.flat",
+        "source": "C:\\AndroidStudioProjects\\GestureBuilder\\app\\src\\main\\res\\layout\\gestures_item.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProjects\\GestureBuilder\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_gesturebuilder.png.flat",
+        "source": "C:\\AndroidStudioProjects\\GestureBuilder\\app\\src\\main\\res\\drawable-hdpi\\ic_gesturebuilder.png"
+    },
+    {
+        "merged": "C:\\AndroidStudioProjects\\GestureBuilder\\app\\build\\intermediates\\res\\merged\\debug\\layout_gestures_list.xml.flat",
+        "source": "C:\\AndroidStudioProjects\\GestureBuilder\\app\\src\\main\\res\\layout\\gestures_list.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProjects\\GestureBuilder\\app\\build\\intermediates\\res\\merged\\debug\\layout_dialog_rename.xml.flat",
+        "source": "C:\\AndroidStudioProjects\\GestureBuilder\\app\\src\\main\\res\\layout\\dialog_rename.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProjects\\GestureBuilder\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_gesturebuilder.png.flat",
+        "source": "C:\\AndroidStudioProjects\\GestureBuilder\\app\\src\\main\\res\\drawable-mdpi\\ic_gesturebuilder.png"
+    }
+]

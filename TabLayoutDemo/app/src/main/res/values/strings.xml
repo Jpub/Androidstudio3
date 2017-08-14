@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">TabLayoutDemo</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="tab_1_fragment">Tab 1 Fragment</string>
+    <string name="tab_2_fragment">Tab 2 Fragment</string>
+    <string name="tab_3_fragment">Tab 3 Fragment</string>
+    <string name="tab_4_fragment">Tab 4 Fragment</string>
+</resources>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<transitionSet
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:transitionOrdering="sequential" >
+
+    <fade
+        android:duration="2000"
+        android:fadingMode="fade_in">
+        <targets>
+            <target android:targetId="@id/button3" />
+        </targets>
+    </fade>
+
+    <changeBounds
+        android:duration="2000"
+        android:interpolator="@android:anim/bounce_interpolator">
+    </changeBounds>
+
+</transitionSet>

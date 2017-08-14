@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="gesture_color">#FFFFFF00</color>
+    <dimen name="gesture_thumbnail_inset">8dip</dimen>
+    <dimen name="gesture_thumbnail_size">64dip</dimen>
+    <string name="application_name">Gestures Builder</string>
+    <string name="button_add">Add gesture</string>
+    <string name="button_discard">Discard</string>
+    <string name="button_done">Done</string>
+    <string name="button_reload">Reload</string>
+    <string name="cancel_action">Cancel</string>
+    <string name="error_missing_name">You must enter a name</string>
+    <string name="gestures_activity">Gestures</string>
+    <string name="gestures_delete">Delete</string>
+    <string name="gestures_delete_success">Gesture deleted</string>
+    <string name="gestures_empty">No gestures</string>
+    <string name="gestures_error_loading">Could not load %s. Make sure you have storage available.</string>
+    <string name="gestures_loading">Loading gestures...</string>
+    <string name="gestures_rename">Rename</string>
+    <string name="gestures_rename_label">Gesture name</string>
+    <string name="gestures_rename_title">Rename gesture</string>
+    <string name="label_create_gesture">Create a gesture</string>
+    <string name="prompt_gesture_name">Name</string>
+    <string name="rename_action">OK</string>
+    <string name="save_success">Gesture saved in %s</string>
+</resources>

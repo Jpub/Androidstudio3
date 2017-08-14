@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MotionEvent</string>
+    <string name="touch_one_status">Touch One Status</string>
+    <string name="touch_two_status">Touch Two Status</string>
+</resources>

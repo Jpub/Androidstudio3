@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "C:\\AndroidStudioProjectsASDE\\GestureBuilder\\app\\build\\intermediates\\res\\merged\\debug\\layout\\gestures_item.xml",
+        "source": "C:\\AndroidStudioProjectsASDE\\GestureBuilder\\app\\src\\main\\res\\layout\\gestures_item.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProjects\\GestureBuilder\\app\\build\\intermediates\\res\\merged\\debug\\layout\\gestures_list.xml",
+        "source": "C:\\AndroidStudioProjects\\GestureBuilder\\app\\src\\main\\res\\layout\\gestures_list.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProjects\\GestureBuilder\\app\\build\\intermediates\\res\\merged\\debug\\layout\\gestures_item.xml",
+        "source": "C:\\AndroidStudioProjects\\GestureBuilder\\app\\src\\main\\res\\layout\\gestures_item.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProjects\\GestureBuilder\\app\\build\\intermediates\\res\\merged\\debug\\layout\\create_gesture.xml",
+        "source": "C:\\AndroidStudioProjects\\GestureBuilder\\app\\src\\main\\res\\layout\\create_gesture.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProjectsASDE\\GestureBuilder\\app\\build\\intermediates\\res\\merged\\debug\\layout\\create_gesture.xml",
+        "source": "C:\\AndroidStudioProjectsASDE\\GestureBuilder\\app\\src\\main\\res\\layout\\create_gesture.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProjectsASDE\\GestureBuilder\\app\\build\\intermediates\\res\\merged\\debug\\layout\\gestures_list.xml",
+        "source": "C:\\AndroidStudioProjectsASDE\\GestureBuilder\\app\\src\\main\\res\\layout\\gestures_list.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProjects\\GestureBuilder\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_rename.xml",
+        "source": "C:\\AndroidStudioProjects\\GestureBuilder\\app\\src\\main\\res\\layout\\dialog_rename.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProjectsASDE\\GestureBuilder\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_rename.xml",
+        "source": "C:\\AndroidStudioProjectsASDE\\GestureBuilder\\app\\src\\main\\res\\layout\\dialog_rename.xml"
+    }
+]

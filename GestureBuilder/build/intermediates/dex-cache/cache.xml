@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\AndroidStudioProjectsASDE\GestureBuilder\app\build\intermediates\transforms\instantRunSlicer\debug\jars\1\1a\dependencies.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="5906c060b6c7ec45ae97492a29fa9537b981f23e">
+        <dex dex="C:\AndroidStudioProjectsASDE\GestureBuilder\app\build\intermediates\transforms\dex\debug\folders\1000\1a\dependencies_fbc54b2ab25f0357716aec042f5db75229a95423\classes.dex" />
+    </item>
+
+</items>

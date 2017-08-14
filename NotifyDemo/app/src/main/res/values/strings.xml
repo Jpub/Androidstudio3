@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">NotifyDemo</string>
+    <string name="result_activity">Result Activity</string>
+</resources>

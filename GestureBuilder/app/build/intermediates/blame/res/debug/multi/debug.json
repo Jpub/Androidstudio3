@@ -1,0 +1,444 @@
+[
+    {
+        "outputFile": "C:\\AndroidStudioProjects\\GestureBuilder\\app\\build\\intermediates\\res\\merged\\debug\\values_values.arsc.flat",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 49,
+                    "endOffset": 100
+                },
+                "from": {
+                    "file": "C:\\AndroidStudioProjects\\GestureBuilder\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 737,
+                        "endColumn": 49,
+                        "endOffset": 782
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 105,
+                    "endColumn": 54,
+                    "endOffset": 155
+                },
+                "from": {
+                    "file": "C:\\AndroidStudioProjects\\GestureBuilder\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 691,
+                        "endColumn": 54,
+                        "endOffset": 741
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 160,
+                    "endColumn": 54,
+                    "endOffset": 210
+                },
+                "from": {
+                    "file": "C:\\AndroidStudioProjects\\GestureBuilder\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 746,
+                        "endColumn": 54,
+                        "endOffset": 796
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 215,
+                    "endColumn": 61,
+                    "endOffset": 272
+                },
+                "from": {
+                    "file": "C:\\AndroidStudioProjects\\GestureBuilder\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 787,
+                        "endColumn": 61,
+                        "endOffset": 844
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 277,
+                    "endColumn": 50,
+                    "endOffset": 323
+                },
+                "from": {
+                    "file": "C:\\AndroidStudioProjects\\GestureBuilder\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 30,
+                        "startColumn": 4,
+                        "startOffset": 1065,
+                        "endColumn": 50,
+                        "endOffset": 1111
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 328,
+                    "endColumn": 50,
+                    "endOffset": 374
+                },
+                "from": {
+                    "file": "C:\\AndroidStudioProjects\\GestureBuilder\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 34,
+                        "startColumn": 4,
+                        "startOffset": 1296,
+                        "endColumn": 50,
+                        "endOffset": 1342
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 379,
+                    "endColumn": 44,
+                    "endOffset": 419
+                },
+                "from": {
+                    "file": "C:\\AndroidStudioProjects\\GestureBuilder\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 36,
+                        "startColumn": 4,
+                        "startOffset": 1411,
+                        "endColumn": 44,
+                        "endOffset": 1451
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 424,
+                    "endColumn": 48,
+                    "endOffset": 468
+                },
+                "from": {
+                    "file": "C:\\AndroidStudioProjects\\GestureBuilder\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 32,
+                        "startColumn": 4,
+                        "startOffset": 1171,
+                        "endColumn": 48,
+                        "endOffset": 1215
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 473,
+                    "endColumn": 48,
+                    "endOffset": 517
+                },
+                "from": {
+                    "file": "C:\\AndroidStudioProjects\\GestureBuilder\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 49,
+                        "startColumn": 4,
+                        "startOffset": 2067,
+                        "endColumn": 48,
+                        "endOffset": 2111
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 522,
+                    "endColumn": 68,
+                    "endOffset": 586
+                },
+                "from": {
+                    "file": "C:\\AndroidStudioProjects\\GestureBuilder\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 43,
+                        "startColumn": 4,
+                        "startOffset": 1719,
+                        "endColumn": 68,
+                        "endOffset": 1783
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 591,
+                    "endColumn": 54,
+                    "endOffset": 641
+                },
+                "from": {
+                    "file": "C:\\AndroidStudioProjects\\GestureBuilder\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 55,
+                        "startColumn": 4,
+                        "startOffset": 2439,
+                        "endColumn": 54,
+                        "endOffset": 2489
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 646,
+                    "endColumn": 50,
+                    "endOffset": 692
+                },
+                "from": {
+                    "file": "C:\\AndroidStudioProjects\\GestureBuilder\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 59,
+                        "startColumn": 4,
+                        "startOffset": 2653,
+                        "endColumn": 50,
+                        "endOffset": 2699
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 697,
+                    "endColumn": 67,
+                    "endOffset": 760
+                },
+                "from": {
+                    "file": "C:\\AndroidStudioProjects\\GestureBuilder\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 61,
+                        "startColumn": 4,
+                        "startOffset": 2774,
+                        "endColumn": 67,
+                        "endOffset": 2837
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 765,
+                    "endColumn": 54,
+                    "endOffset": 815
+                },
+                "from": {
+                    "file": "C:\\AndroidStudioProjects\\GestureBuilder\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 53,
+                        "startColumn": 4,
+                        "startOffset": 2322,
+                        "endColumn": 54,
+                        "endOffset": 2372
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 820,
+                    "endColumn": 107,
+                    "endOffset": 923
+                },
+                "from": {
+                    "file": "C:\\AndroidStudioProjects\\GestureBuilder\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 67,
+                        "startColumn": 4,
+                        "startOffset": 3217,
+                        "endColumn": 107,
+                        "endOffset": 3320
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 928,
+                    "endColumn": 64,
+                    "endOffset": 988
+                },
+                "from": {
+                    "file": "C:\\AndroidStudioProjects\\GestureBuilder\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 51,
+                        "startColumn": 4,
+                        "startOffset": 2196,
+                        "endColumn": 64,
+                        "endOffset": 2256
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 993,
+                    "endColumn": 50,
+                    "endOffset": 1039
+                },
+                "from": {
+                    "file": "C:\\AndroidStudioProjects\\GestureBuilder\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 57,
+                        "startColumn": 4,
+                        "startOffset": 2548,
+                        "endColumn": 50,
+                        "endOffset": 2594
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 1044,
+                    "endColumn": 62,
+                    "endOffset": 1102
+                },
+                "from": {
+                    "file": "C:\\AndroidStudioProjects\\GestureBuilder\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 65,
+                        "startColumn": 4,
+                        "startOffset": 3010,
+                        "endColumn": 62,
+                        "endOffset": 3068
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 1107,
+                    "endColumn": 64,
+                    "endOffset": 1167
+                },
+                "from": {
+                    "file": "C:\\AndroidStudioProjects\\GestureBuilder\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 63,
+                        "startColumn": 4,
+                        "startOffset": 2875,
+                        "endColumn": 64,
+                        "endOffset": 2935
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 1172,
+                    "endColumn": 65,
+                    "endOffset": 1233
+                },
+                "from": {
+                    "file": "C:\\AndroidStudioProjects\\GestureBuilder\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 4,
+                        "startOffset": 915,
+                        "endColumn": 65,
+                        "endOffset": 976
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 1238,
+                    "endColumn": 52,
+                    "endOffset": 1286
+                },
+                "from": {
+                    "file": "C:\\AndroidStudioProjects\\GestureBuilder\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 41,
+                        "startColumn": 4,
+                        "startOffset": 1572,
+                        "endColumn": 52,
+                        "endOffset": 1620
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 1291,
+                    "endColumn": 44,
+                    "endOffset": 1331
+                },
+                "from": {
+                    "file": "C:\\AndroidStudioProjects\\GestureBuilder\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 47,
+                        "startColumn": 4,
+                        "startOffset": 1972,
+                        "endColumn": 44,
+                        "endOffset": 2012
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 1336,
+                    "endColumn": 60,
+                    "endOffset": 1392
+                },
+                "from": {
+                    "file": "C:\\AndroidStudioProjects\\GestureBuilder\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 45,
+                        "startColumn": 4,
+                        "startOffset": 1861,
+                        "endColumn": 60,
+                        "endOffset": 1917
+                    }
+                }
+            }
+        ]
+    }
+]
