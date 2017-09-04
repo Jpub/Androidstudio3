@@ -35,7 +35,7 @@
 - 코틀린 부록에 나오는 소스 코드는 별도의 프로젝트 파일로 제공하지 않습니다. **“백문이 불여일타”** 입니다. 독자 여러분이 직접 키보드 두드리면서 파악하면 훨씬 더 도움이 될 겁니다.  
   
 - 코틀린 Standalone 컴파일러는 다음과 같이 다운로드하면 됩니다.  
-1. https://kotlinlang.org/docs/tutorials/command-line.html을 접속한다.  
+1. [https://kotlinlang.org/docs/tutorials/command-line.html](https://kotlinlang.org/docs/tutorials/command-line.html)을 접속한다.  
 2. 화면 위의 Downloading the compiler 밑에 있는 GitHub Releases 링크를 클릭하면 현재의 최신 버전 다운로드 페이지가 나옴.  
 3. 제일 밑으로 내려가면 Downloads가 있고 그 밑에 있는 kotlin-compiler-1.1.4.zip을 클릭하여 다운로드하면 됨(여기서 1.1.4는 버전 번호이며 수시로 변경될 수 있음).  
   
